@@ -1,0 +1,13 @@
+#Build Configuration
+build:
+  version: "3.0"
+  
+
+#Contact Details
+orders:
+  message: "Welcome to Order App related loacal APIs"
+  contactDetails:
+    name: "Ashin Jimmy - QA Tester Profile"
+    email: "a00315945@student.tus.ie"
+  onCallSupport:
+    -(089) 495-48080

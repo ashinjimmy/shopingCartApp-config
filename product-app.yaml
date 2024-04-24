@@ -1,0 +1,13 @@
+#Build Configuration
+build:
+  version: "5.0"
+  
+
+#Contact Details
+products:
+  message: "Welcome to Product App related loacal APIs"
+  contactDetails:
+    name: "Ashin Jimmy - Developer Profile"
+    email: "a00315945@student.tus.ie"
+  onCallSupport:
+    -(089) 495-48080

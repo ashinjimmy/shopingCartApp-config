@@ -1,0 +1,13 @@
+#Build Configuration
+build:
+  version: "4.0"
+  
+
+#Contact Details
+inventory:
+  message: "Welcome to Inventory App related loacal APIs"
+  contactDetails:
+    name: "Ashin Jimmy - Production Profile"
+    email: "a00315945@student.tus.ie"
+  onCallSupport:
+    -(089) 495-48080
